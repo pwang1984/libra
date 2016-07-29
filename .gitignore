@@ -1,0 +1,11 @@
+.project
+.classpath
+target/
+.settings/
+*.metadata
+.metadata/
+*/models/*.PNG
+*.log
+*.recommenders
+rebel.xml
+.factorypath
